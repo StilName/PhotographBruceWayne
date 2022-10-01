@@ -742,7 +742,7 @@ a:-webkit-any-link {color: #fff;}
     transform: scale(0.8);
 }
 }
-@media (max-width: 767.9px;) {
+@media (max-width: 767.9px) {
 .menu-burger {
     display: flex;	
 }
