@@ -629,7 +629,7 @@ a:-webkit-any-link {color: #fff;}
 .media li:last-child{
 	margin-right: 0px;
 }
-@media (max-width: 1440px;) {
+@media (max-width: 1440px) {
 .wrapper {
 	width: 100%;
 }
@@ -642,7 +642,7 @@ a:-webkit-any-link {color: #fff;}
 }
 
 }
-@media (max-width: 1199px;) {
+@media (max-width: 1199px) {
 .slider{
 	position: relative;
 	height: 341px;
@@ -699,7 +699,7 @@ a:-webkit-any-link {color: #fff;}
 	letter-spacing: 0.12em;
 }
 }
-@media (max-width: 992px;) {
+@media (max-width: 992px) {
 .header ul {
     font-size: 16px;
 }
